@@ -13,7 +13,7 @@ Open-source rebuilds of QA tools I designed and used in carrier-scale network en
 | [api-regression-framework](https://github.com/Brandonicus-Rex/api-regression-framework) | YAML-driven REST regression testing with pytest, JUnit reports and a mock FastAPI service |
 | [soap-bulk-lookup](https://github.com/Brandonicus-Rex/soap-bulk-lookup) | Concurrent bulk SOAP/XML lookups with auditable CSV reports |
 
-*128 automated tests across the four repos, run in GitHub Actions CI on Python 3.10 and 3.12.*
+*136 automated tests across the four repos, run in GitHub Actions CI on Python 3.10 and 3.12.*
 
 ## 🔐 Certifications
 
