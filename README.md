@@ -1,6 +1,6 @@
 # Hi, I'm Brandon Hatfield 👋
 
-**Security & Infrastructure Engineer** with nearly a decade in IT, from systems administration to senior system design engineering at T-Mobile. I focus on secure network and infrastructure design, and I'm building out my cloud skills on Microsoft Azure.
+**Security & Infrastructure Engineer** with nearly a decade in IT, from systems administration to senior system design engineering. I focus on secure network and infrastructure design with a focus on quality assurance, and I'm building out my cloud skills on Microsoft Azure.
 
 ## 🔐 Certifications
 
