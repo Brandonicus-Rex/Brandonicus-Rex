@@ -21,6 +21,7 @@ Open-source rebuilds of QA tools I designed and used in carrier-scale network en
 - **CISM**: Certified Information Security Manager (ISACA)
 - **ISC2 CC**: Certified in Cybersecurity
 - **AZ-900**: Microsoft Azure Fundamentals
+- **SC-900**: Microsoft Security, Compliance, and Identity Fundamentals
 
 ## 🎓 Education
 
@@ -39,7 +40,6 @@ Open-source rebuilds of QA tools I designed and used in carrier-scale network en
 
 | Exam | Repo |
 |------|------|
-| SC-900: Security, Compliance, and Identity Fundamentals (Microsoft Entra ID, Microsoft security solutions) | [sc-900-study-notes](https://github.com/Brandonicus-Rex/sc-900-study-notes) |
 | AZ-104: Azure Administrator | [az-104-study-notes](https://github.com/Brandonicus-Rex/az-104-study-notes) |
 
 ## 📫 Connect
